@@ -1,0 +1,388 @@
+,Flow,Monitoring Set,Monitoring Location,Date,Analyte,Value,Unit,Test Location,Remarks,Latitude,Longitude,Month,Year
+0,Base Flow,Cayuga Inlet,Blakeslee Hill,"Apr 11, 2019",Total Phosphorus (as P),19.9,ug/L,Lab,,42.3847,-76.5554,Apr,2019
+1,Base Flow,Cayuga Inlet,Brown Road,"Apr 11, 2019",Total Phosphorus (as P),48.8,ug/L,Lab,,42.3473,-76.5399,Apr,2019
+2,Base Flow,Cayuga Inlet,Depot Road (Newfield),"Apr 11, 2019",Total Phosphorus (as P),13.5,ug/L,Lab,,42.3631,-76.5785,Apr,2019
+3,Base Flow,Cayuga Inlet,Upstream of Dam,"Apr 11, 2019",Total Phosphorus (as P),19.7,ug/L,Lab,,42.3611,-76.5944,Apr,2019
+4,Base Flow,Cayuga Inlet,Station Road by Newfield Group,"Apr 11, 2019",Total Phosphorus (as P),18.7,ug/L,Lab,,42.3205,-76.5182,Apr,2019
+5,Base Flow,Cayuga Inlet,Buttermilk Crk (upstream),"Apr 11, 2019",Total Phosphorus (as P),23.5,ug/L,Lab,,42.4164,-76.5276,Apr,2019
+6,Base Flow,Cayuga Inlet,Buttermilk Crk - Jennings Pnd,"Apr 11, 2019",Total Phosphorus (as P),23.1,ug/L,Lab,,42.3469,-76.4869,Apr,2019
+7,Base Flow,Cayuga Inlet,Buttermilk Creek Mouth,"Apr 11, 2019",Total Phosphorus (as P),26.2,ug/L,Lab,,42.4166,-76.5216,Apr,2019
+8,Base Flow,Cayuga Inlet,Enfield Creek at Enfield Center,"Apr 11, 2019",Total Phosphorus (as P),18.5,ug/L,Lab,,42.4359,-76.6297,Apr,2019
+9,Base Flow,Cayuga Inlet,Enfield Creek at Upper Treman,"Apr 11, 2019",Total Phosphorus (as P),10.9,ug/L,Lab,,42.4147,-76.6203,Apr,2019
+10,Base Flow,Cayuga Inlet,Enfield Creek near Mouth,"Apr 11, 2019",Total Phosphorus (as P),15.9,ug/L,Lab,,42.3991,-76.5451,Apr,2019
+11,Base Flow,Cayuga Inlet,Coy Glen near Mouth,"Apr 11, 2019",Total Phosphorus (as P),12.4,ug/L,Lab,,42.4275,-76.5233,Apr,2019
+12,Base Flow,Cayuga Inlet,Flood Control Channel at Wegman\s,"Apr 11, 2019",Total Phosphorus (as P),59.3,ug/L,Lab,,42.4337,-76.5115,Apr,2019
+13,Base Flow,Cayuga Inlet,Route 89,"Apr 11, 2019",Total Phosphorus (as P),23.4,ug/L,Lab,,42.4435,-76.5136,Apr,2019
+14,Base Flow,Cayuga Inlet,Cascadilla Creek Mouth,"Apr 11, 2019",Total Phosphorus (as P),13.1,ug/L,Lab,,42.4513,-76.5047,Apr,2019
+15,Base Flow,Cayuga Inlet,Lickbrook at W. Jersey Hill ,"Apr 11, 2019",Total Phosphorus (as P),25.2,ug/L,Lab,,42.3743,-76.5206,Apr,2019
+16,Base Flow,Cayuga Inlet,Flood Control Channel Esty St,"Apr 11, 2019",Total Phosphorus (as P),28.9,ug/L,Lab,,42.4427,-76.5117,Apr,2019
+17,Base Flow,Cayuga Inlet,Station Road by Buttermilk Group,"Apr 11, 2019",Total Phosphorus (as P),51.3,ug/L,Lab,,42.3205,-76.5182,Apr,2019
+18,Base Flow,Cayuga Inlet,Cass Park,"Apr 11, 2019",Total Phosphorus (as P),78.5,ug/L,Lab,,42.4554,-76.5121,Apr,2019
+19,Base Flow,Cayuga Inlet,Cherry and Taber St,"Apr 11, 2019",Total Phosphorus (as P),30.5,ug/L,Lab,,42.4389,-76.5163,Apr,2019
+20,Base Flow,Cayuga Inlet,Farmers\ Market,"Apr 11, 2019",Total Phosphorus (as P),25.9,ug/L,Lab,,42.4502,-76.5117,Apr,2019
+21,Base Flow,Fall Creek,Lafayette Road,"Apr 22, 2019",Total Phosphorus (as P),29.8,ug/L,Lab,,42.5935,-76.2876,Apr,2019
+22,Base Flow,Fall Creek,Davis Road Bridge,"Apr 22, 2019",Total Phosphorus (as P),35.5,ug/L,Lab,,42.5735,-76.2963,Apr,2019
+23,Base Flow,Fall Creek,McLean Bridge,"Apr 22, 2019",Total Phosphorus (as P),60.2,ug/L,Lab,,42.5526,-76.293,Apr,2019
+24,Base Flow,Fall Creek,Fall Creek Freeville,"Apr 22, 2019",Total Phosphorus (as P),33.9,ug/L,Lab,,42.505,-76.3595,Apr,2019
+25,Base Flow,Fall Creek,Freese Road Bridge,"Apr 22, 2019",Total Phosphorus (as P),76.1,ug/L,Lab,,42.4569,-76.4387,Apr,2019
+26,Base Flow,Fall Creek,Cayuga Street Bridge,"Apr 22, 2019",Total Phosphorus (as P),69.6,ug/L,Lab,,42.4547,-76.5004,Apr,2019
+27,Base Flow,Fall Creek,Champlin Road Culvert,"Apr 22, 2019",Total Phosphorus (as P),388.0,ug/L,Lab,,42.5755,-76.297,Apr,2019
+28,Base Flow,Fall Creek,Tillotson Road Culvert,"Apr 22, 2019",Total Phosphorus (as P),291.0,ug/L,Lab,,42.5758,-76.303,Apr,2019
+29,Base Flow,Fall Creek,Como Lake Outlet,"Apr 22, 2019",Total Phosphorus (as P),24.3,ug/L,Lab,,42.663000000000004,-76.2863,Apr,2019
+30,Base Flow,Fall Creek,McLean Rd.,"Apr 22, 2019",Total Phosphorus (as P),34.6,ug/L,Lab,,42.5438,-76.2971,Apr,2019
+31,Base Flow,Six Mile Creek,Plain Street,"May 08, 2019",Total Phosphorus (as P),68.7,ug/L,Lab,,42.434,-76.5041,May,2019
+32,Base Flow,Six Mile Creek,Wildflower Preserve,"May 08, 2019",Total Phosphorus (as P),159.5,ug/L,Lab,,42.4322,-76.4841,May,2019
+33,Base Flow,Six Mile Creek,German Cross Road,"May 08, 2019",Total Phosphorus (as P),18.6,ug/L,Lab,,42.4028,-76.4359,May,2019
+34,Base Flow,Six Mile Creek,Beaver Creek,"May 08, 2019",Total Phosphorus (as P),24.2,ug/L,Lab,,42.3885,-76.4138,May,2019
+35,Base Flow,Six Mile Creek,Brooktondale,"May 08, 2019",Total Phosphorus (as P),14.8,ug/L,Lab,,42.3812,-76.3973,May,2019
+36,Base Flow,Six Mile Creek,Horse Farm,"May 08, 2019",Total Phosphorus (as P),23.8,ug/L,Lab,,42.3861,-76.3629,May,2019
+37,Base Flow,Six Mile Creek,Boiceville,"May 08, 2019",Total Phosphorus (as P),10.5,ug/L,Lab,,42.3934,-76.3629,May,2019
+38,Base Flow,Six Mile Creek,Barrile Site,"May 08, 2019",Total Phosphorus (as P),34.3,ug/L,Lab,,42.3935,-76.342,May,2019
+39,Base Flow,Six Mile Creek,Six Hundred Rd,"May 08, 2019",Total Phosphorus (as P),14.2,ug/L,Lab,,42.3964,-76.3343,May,2019
+40,Base Flow,Six Mile Creek,Midline Rd,"May 08, 2019",Total Phosphorus (as P),27.4,ug/L,Lab,,42.4332,-76.3452,May,2019
+41,Base Flow,Six Mile Creek,Yellow Barn Road,"May 08, 2019",Total Phosphorus (as P),21.5,ug/L,Lab,,42.4428,-76.3457,May,2019
+42,Base Flow,Six Mile Creek,Irish Settlement Rd,"May 08, 2019",Total Phosphorus (as P),23.4,ug/L,Lab,,42.4354,-76.3209,May,2019
+43,Base Flow,Six Mile Creek,Gasline,"May 08, 2019",Total Phosphorus (as P),37.9,ug/L,Lab,,42.4048,-76.4498,May,2019
+44,Base Flow,Six Mile Creek,Banks Road,"May 08, 2019",Total Phosphorus (as P),15.5,ug/L,Lab,,42.396,-76.4208,May,2019
+45,Base Flow,Cayuga Nature Center Creek,Cayuga Nature Center Creek at Center - Upstream,"May 29, 2019",Total Phosphorus (as P),21.1,ug/L,Lab,,42.5179,-76.5569,May,2019
+46,Base Flow,Cayuga Nature Center Creek,Cayuga Nature Center Creek at Comstock,"May 29, 2019",Total Phosphorus (as P),29.5,ug/L,Lab,,42.5213,-76.5536,May,2019
+47,Base Flow,Stewart Park,Visitor\s Center,"Jul 07, 2019",Total Phosphorus (as P),379.0,ug/L,Lab,,42.4648,-76.5003,Jul,2019
+48,Base Flow,Stewart Park,Cayuga Lake Shore,"Jul 07, 2019",Total Phosphorus (as P),94.8,ug/L,Lab,,42.4625,-76.5036,Jul,2019
+49,Base Flow,Stewart Park,Sanctuary Stream,"Jul 07, 2019",Total Phosphorus (as P),286.0,ug/L,Lab,,42.4599,-76.5035,Jul,2019
+50,Base Flow,Stewart Park,Fall Creek Mouth,"Jul 07, 2019",Total Phosphorus (as P),42.2,ug/L,Lab,,42.4575,-76.5046,Jul,2019
+51,Base Flow,Six Mile Creek,Plain Street,"Jul 10, 2019",Total Phosphorus (as P),30.7,ug/L,Lab,,42.434,-76.5041,Jul,2019
+52,Base Flow,Six Mile Creek,Wildflower Preserve,"Jul 10, 2019",Total Phosphorus (as P),28.6,ug/L,Lab,,42.4322,-76.4841,Jul,2019
+53,Base Flow,Six Mile Creek,German Cross Road,"Jul 10, 2019",Total Phosphorus (as P),12.3,ug/L,Lab,,42.4028,-76.4359,Jul,2019
+54,Base Flow,Six Mile Creek,Beaver Creek,"Jul 10, 2019",Total Phosphorus (as P),24.3,ug/L,Lab,,42.3885,-76.4138,Jul,2019
+55,Base Flow,Six Mile Creek,Brooktondale,"Jul 10, 2019",Total Phosphorus (as P),13.3,ug/L,Lab,,42.3812,-76.3973,Jul,2019
+56,Base Flow,Six Mile Creek,Horse Farm,"Jul 10, 2019",Total Phosphorus (as P),25.9,ug/L,Lab,,42.3861,-76.3629,Jul,2019
+57,Base Flow,Six Mile Creek,Boiceville,"Jul 10, 2019",Total Phosphorus (as P),23.3,ug/L,Lab,,42.3934,-76.3629,Jul,2019
+58,Base Flow,Six Mile Creek,Barrile Site,"Jul 10, 2019",Total Phosphorus (as P),22.4,ug/L,Lab,,42.3935,-76.342,Jul,2019
+59,Base Flow,Six Mile Creek,Six Hundred Rd,"Jul 10, 2019",Total Phosphorus (as P),16.4,ug/L,Lab,,42.3964,-76.3343,Jul,2019
+60,Base Flow,Six Mile Creek,Midline Rd,"Jul 10, 2019",Total Phosphorus (as P),28.3,ug/L,Lab,,42.4332,-76.3452,Jul,2019
+61,Base Flow,Six Mile Creek,Yellow Barn Road,"Jul 10, 2019",Total Phosphorus (as P),23.2,ug/L,Lab,,42.4428,-76.3457,Jul,2019
+62,Base Flow,Six Mile Creek,Irish Settlement Rd,"Jul 10, 2019",Total Phosphorus (as P),31.3,ug/L,Lab,,42.4354,-76.3209,Jul,2019
+63,Base Flow,Six Mile Creek,Gasline,"Jul 10, 2019",Total Phosphorus (as P),18.0,ug/L,Lab,,42.4048,-76.4498,Jul,2019
+64,Base Flow,Six Mile Creek,Banks Road,"Jul 10, 2019",Total Phosphorus (as P),12.1,ug/L,Lab,,42.396,-76.4208,Jul,2019
+65,Base Flow,Stewart Park,Visitor\s Center,"Aug 16, 2019",Total Phosphorus (as P),193.0,ug/L,Lab,,42.4648,-76.5003,Aug,2019
+66,Base Flow,Stewart Park,Cayuga Lake Shore,"Aug 16, 2019",Total Phosphorus (as P),29.9,ug/L,Lab,,42.4625,-76.5036,Aug,2019
+67,Base Flow,Stewart Park,Sanctuary Stream,"Aug 16, 2019",Total Phosphorus (as P),208.0,ug/L,Lab,,42.4599,-76.5035,Aug,2019
+68,Base Flow,Stewart Park,Fall Creek Mouth,"Aug 16, 2019",Total Phosphorus (as P),63.9,ug/L,Lab,,42.4575,-76.5046,Aug,2019
+69,Base Flow,Cayuga Inlet,Blakeslee Hill,"Aug 22, 2019",Total Phosphorus (as P),21.8,ug/L,Lab,,42.3847,-76.5554,Aug,2019
+70,Base Flow,Cayuga Inlet,Brown Road,"Aug 22, 2019",Total Phosphorus (as P),23.3,ug/L,Lab,,42.3473,-76.5399,Aug,2019
+71,Base Flow,Cayuga Inlet,Depot Road (Newfield),"Aug 22, 2019",Total Phosphorus (as P),37.4,ug/L,Lab,,42.3631,-76.5785,Aug,2019
+72,Base Flow,Cayuga Inlet,Upstream of Dam,"Aug 22, 2019",Total Phosphorus (as P),24.0,ug/L,Lab,,42.3611,-76.5944,Aug,2019
+73,Base Flow,Cayuga Inlet,Station Road by Newfield Group,"Aug 22, 2019",Total Phosphorus (as P),24.2,ug/L,Lab,,42.3205,-76.5182,Aug,2019
+74,Base Flow,Cayuga Inlet,Buttermilk Crk (upstream),"Aug 22, 2019",Total Phosphorus (as P),12.1,ug/L,Lab,,42.4164,-76.5276,Aug,2019
+75,Base Flow,Cayuga Inlet,Buttermilk Crk - Jennings Pnd,"Aug 22, 2019",Total Phosphorus (as P),40.9,ug/L,Lab,,42.3469,-76.4869,Aug,2019
+76,Base Flow,Cayuga Inlet,Buttermilk Creek Mouth,"Aug 22, 2019",Total Phosphorus (as P),18.6,ug/L,Lab,,42.4166,-76.5216,Aug,2019
+77,Base Flow,Cayuga Inlet,Enfield Creek at Enfield Center,"Aug 22, 2019",Total Phosphorus (as P),9.04,ug/L,Lab,,42.4359,-76.6297,Aug,2019
+78,Base Flow,Cayuga Inlet,Enfield Creek at Upper Treman,"Aug 22, 2019",Total Phosphorus (as P),17.4,ug/L,Lab,,42.4147,-76.6203,Aug,2019
+79,Base Flow,Cayuga Inlet,Enfield Creek near Mouth,"Aug 22, 2019",Total Phosphorus (as P),9.49,ug/L,Lab,,42.3991,-76.5451,Aug,2019
+80,Base Flow,Cayuga Inlet,Flood Control Channel at Wegman\s,"Aug 22, 2019",Total Phosphorus (as P),72.7,ug/L,Lab,,42.4337,-76.5115,Aug,2019
+81,Base Flow,Cayuga Inlet,Route 89,"Aug 22, 2019",Total Phosphorus (as P),36.5,ug/L,Lab,,42.4435,-76.5136,Aug,2019
+82,Base Flow,Cayuga Inlet,Cascadilla Creek Mouth,"Aug 22, 2019",Total Phosphorus (as P),83.3,ug/L,Lab,,42.4513,-76.5047,Aug,2019
+83,Base Flow,Cayuga Inlet,Lickbrook at W. Jersey Hill ,"Aug 22, 2019",Total Phosphorus (as P),47.6,ug/L,Lab,,42.3743,-76.5206,Aug,2019
+84,Base Flow,Cayuga Inlet,Flood Control Channel Esty St,"Aug 22, 2019",Total Phosphorus (as P),52.9,ug/L,Lab,,42.4427,-76.5117,Aug,2019
+85,Base Flow,Cayuga Inlet,Station Road by Buttermilk Group,"Aug 22, 2019",Total Phosphorus (as P),50.5,ug/L,Lab,,42.3205,-76.5182,Aug,2019
+86,Base Flow,Cayuga Inlet,Cass Park,"Aug 22, 2019",Total Phosphorus (as P),44.0,ug/L,Lab,,42.4554,-76.5121,Aug,2019
+87,Base Flow,Cayuga Inlet,Cherry and Taber St,"Aug 22, 2019",Total Phosphorus (as P),35.8,ug/L,Lab,,42.4389,-76.5163,Aug,2019
+88,Base Flow,Cayuga Inlet,Farmers\ Market,"Aug 22, 2019",Total Phosphorus (as P),44.3,ug/L,Lab,,42.4502,-76.5117,Aug,2019
+89,Base Flow,Fall Creek,Lafayette Road,"Sep 04, 2019",Total Phosphorus (as P),31.5,ug/L,Lab,,42.5935,-76.2876,Sep,2019
+90,Base Flow,Fall Creek,Davis Road Bridge,"Sep 04, 2019",Total Phosphorus (as P),126.0,ug/L,Lab,,42.5735,-76.2963,Sep,2019
+91,Base Flow,Fall Creek,McLean Bridge,"Sep 04, 2019",Total Phosphorus (as P),49.9,ug/L,Lab,,42.5526,-76.293,Sep,2019
+92,Base Flow,Fall Creek,Fall Creek Freeville,"Sep 04, 2019",Total Phosphorus (as P),123.0,ug/L,Lab,,42.505,-76.3595,Sep,2019
+93,Base Flow,Fall Creek,Freese Road Bridge,"Sep 04, 2019",Total Phosphorus (as P),147.0,ug/L,Lab,,42.4569,-76.4387,Sep,2019
+94,Base Flow,Fall Creek,Cayuga Street Bridge,"Sep 04, 2019",Total Phosphorus (as P),136.0,ug/L,Lab,,42.4547,-76.5004,Sep,2019
+95,Base Flow,Fall Creek,Champlin Road Culvert,"Sep 04, 2019",Total Phosphorus (as P),2131.0,ug/L,Lab,,42.5755,-76.297,Sep,2019
+96,Base Flow,Fall Creek,Tillotson Road Culvert,"Sep 04, 2019",Total Phosphorus (as P),2330.0,ug/L,Lab,,42.5758,-76.303,Sep,2019
+97,Base Flow,Fall Creek,Como Lake Outlet,"Sep 04, 2019",Total Phosphorus (as P),151.0,ug/L,Lab,,42.663000000000004,-76.2863,Sep,2019
+98,Base Flow,Fall Creek,McLean Rd.,"Sep 04, 2019",Total Phosphorus (as P),184.0,ug/L,Lab,,42.5438,-76.2971,Sep,2019
+99,Base Flow,Stewart Park,Visitor\s Center,"Sep 29, 2019",Total Phosphorus (as P),522.0,ug/L,Lab,,42.4648,-76.5003,Sep,2019
+100,Base Flow,Stewart Park,Cayuga Lake Shore,"Sep 29, 2019",Total Phosphorus (as P),196.0,ug/L,Lab,,42.4625,-76.5036,Sep,2019
+101,Base Flow,Stewart Park,Sanctuary Stream,"Sep 29, 2019",Total Phosphorus (as P),213.0,ug/L,Lab,,42.4599,-76.5035,Sep,2019
+102,Base Flow,Stewart Park,Fall Creek Mouth,"Sep 29, 2019",Total Phosphorus (as P),38.5,ug/L,Lab,,42.4575,-76.5046,Sep,2019
+103,Base Flow,Cayuga Nature Center Creek,Cayuga Nature Center Creek at Center - Upstream,"Oct 17, 2019",Total Phosphorus (as P),17.7,ug/L,Lab,,42.5179,-76.5569,Oct,2019
+104,Base Flow,Cayuga Nature Center Creek,Cayuga Nature Center Creek at Comstock,"Oct 17, 2019",Total Phosphorus (as P),18.5,ug/L,Lab,,42.5213,-76.5536,Oct,2019
+105,Base Flow,Stewart Park,Cayuga Lake Shore,"Sep 13, 2020",Total Phosphorus (as P),50.2,ug/L,Lab,,42.4625,-76.5036,Sep,2020
+106,Base Flow,Six Mile Creek,Brooktondale,"Jul 08, 2020",Total Phosphorus (as P),17.2,ug/L,Lab,,42.3812,-76.3973,Jul,2020
+107,Base Flow,Six Mile Creek,Horse Farm,"Jul 08, 2020",Total Phosphorus (as P),19.7,ug/L,Lab,,42.3861,-76.3629,Jul,2020
+108,Base Flow,Six Mile Creek,Boiceville,"Jul 08, 2020",Total Phosphorus (as P),17.3,ug/L,Lab,,42.3934,-76.3629,Jul,2020
+109,Base Flow,Six Mile Creek,Barrile Site,"Jul 08, 2020",Total Phosphorus (as P),18.6,ug/L,Lab,,42.3935,-76.342,Jul,2020
+110,Base Flow,Six Mile Creek,Six Hundred Rd,"Jul 08, 2020",Total Phosphorus (as P),8.4,ug/L,Lab,,42.3964,-76.3343,Jul,2020
+111,Base Flow,Six Mile Creek,Midline Rd,"Jul 08, 2020",Total Phosphorus (as P),20.9,ug/L,Lab,,42.4332,-76.3452,Jul,2020
+112,Base Flow,Six Mile Creek,Irish Settlement Rd,"Jul 08, 2020",Total Phosphorus (as P),40.6,ug/L,Lab,,42.4354,-76.3209,Jul,2020
+113,Base Flow,Six Mile Creek,Gasline,"Jul 08, 2020",Total Phosphorus (as P),9.8,ug/L,Lab,,42.4048,-76.4498,Jul,2020
+114,Base Flow,Six Mile Creek,Banks Road,"Jul 08, 2020",Total Phosphorus (as P),10.9,ug/L,Lab,,42.396,-76.4208,Jul,2020
+115,Base Flow,Stewart Park,Visitor\s Center,"Jul 19, 2020",Total Phosphorus (as P),394.0,ug/L,Lab,,42.4648,-76.5003,Jul,2020
+116,Base Flow,Stewart Park,Cayuga Lake Shore,"Jul 19, 2020",Total Phosphorus (as P),40.5,ug/L,Lab,,42.4625,-76.5036,Jul,2020
+117,Base Flow,Stewart Park,Sanctuary Stream,"Jul 19, 2020",Total Phosphorus (as P),388.0,ug/L,Lab,,42.4599,-76.5035,Jul,2020
+118,Base Flow,Stewart Park,Fall Creek Mouth,"Jul 19, 2020",Total Phosphorus (as P),39.9,ug/L,Lab,,42.4575,-76.5046,Jul,2020
+119,Base Flow,Cayuga Inlet,Blakeslee Hill,"Sep 10, 2020",Total Phosphorus (as P),9.47,ug/L,Lab,,42.3847,-76.5554,Sep,2020
+120,Base Flow,Cayuga Inlet,Brown Road,"Sep 10, 2020",Total Phosphorus (as P),7.28,ug/L,Lab,,42.3473,-76.5399,Sep,2020
+121,Base Flow,Cayuga Inlet,Depot Road (Newfield),"Sep 10, 2020",Total Phosphorus (as P),22.8,ug/L,Lab,,42.3631,-76.5785,Sep,2020
+122,Base Flow,Cayuga Inlet,Upstream of Dam,"Sep 10, 2020",Total Phosphorus (as P),19.8,ug/L,Lab,,42.3611,-76.5944,Sep,2020
+123,Base Flow,Cayuga Inlet,Station Road by Newfield Group,"Sep 10, 2020",Total Phosphorus (as P),21.7,ug/L,Lab,,42.3205,-76.5182,Sep,2020
+124,Base Flow,Cayuga Inlet,Buttermilk Crk (upstream),"Sep 10, 2020",Total Phosphorus (as P),9.47,ug/L,Lab,,42.4164,-76.5276,Sep,2020
+125,Base Flow,Cayuga Inlet,Buttermilk Crk - Jennings Pnd,"Sep 10, 2020",Total Phosphorus (as P),145.0,ug/L,Lab,,42.3469,-76.4869,Sep,2020
+126,Base Flow,Cayuga Inlet,Buttermilk Creek Mouth,"Sep 10, 2020",Total Phosphorus (as P),10.1,ug/L,Lab,,42.4166,-76.5216,Sep,2020
+127,Base Flow,Cayuga Inlet,Enfield Creek at Enfield Center,"Sep 10, 2020",Total Phosphorus (as P),11.8,ug/L,Lab,,42.4359,-76.6297,Sep,2020
+128,Base Flow,Cayuga Inlet,Enfield Creek at Upper Treman,"Sep 10, 2020",Total Phosphorus (as P),18.5,ug/L,Lab,,42.4147,-76.6203,Sep,2020
+129,Base Flow,Cayuga Inlet,Enfield Creek near Mouth,"Sep 10, 2020",Total Phosphorus (as P),17.1,ug/L,Lab,,42.3991,-76.5451,Sep,2020
+130,Base Flow,Cayuga Inlet,Flood Control Channel at Wegman\s,"Sep 10, 2020",Total Phosphorus (as P),170.0,ug/L,Lab,,42.4337,-76.5115,Sep,2020
+131,Base Flow,Cayuga Inlet,Route 89,"Sep 10, 2020",Total Phosphorus (as P),23.1,ug/L,Lab,,42.4435,-76.5136,Sep,2020
+132,Base Flow,Cayuga Inlet,Cascadilla Creek Mouth,"Sep 10, 2020",Total Phosphorus (as P),52.1,ug/L,Lab,,42.4513,-76.5047,Sep,2020
+133,Base Flow,Cayuga Inlet,Lickbrook at W. Jersey Hill ,"Sep 10, 2020",Total Phosphorus (as P),39.9,ug/L,Lab,,42.3743,-76.5206,Sep,2020
+134,Base Flow,Cayuga Inlet,Flood Control Channel Esty St,"Sep 10, 2020",Total Phosphorus (as P),39.0,ug/L,Lab,,42.4427,-76.5117,Sep,2020
+135,Base Flow,Cayuga Inlet,Station Road by Buttermilk Group,"Sep 10, 2020",Total Phosphorus (as P),14.0,ug/L,Lab,,42.3205,-76.5182,Sep,2020
+136,Base Flow,Cayuga Inlet,Cass Park,"Sep 10, 2020",Total Phosphorus (as P),35.6,ug/L,Lab,,42.4554,-76.5121,Sep,2020
+137,Base Flow,Cayuga Inlet,Cherry and Taber St,"Sep 10, 2020",Total Phosphorus (as P),28.2,ug/L,Lab,,42.4389,-76.5163,Sep,2020
+138,Base Flow,Cayuga Inlet,Farmers\ Market,"Sep 10, 2020",Total Phosphorus (as P),36.5,ug/L,Lab,,42.4502,-76.5117,Sep,2020
+139,Base Flow,Cayuga Inlet,Buttermilk Creek @West Miller Road,"Sep 10, 2020",Total Phosphorus (as P),51.9,ug/L,Lab,,42.3676,-76.4903,Sep,2020
+140,Base Flow,Fall Creek,Lafayette Road,"Mar 16, 2020",Total Phosphorus (as P),17.5,ug/L,Lab,,42.5935,-76.2876,Mar,2020
+141,Base Flow,Fall Creek,Davis Road Bridge,"Mar 16, 2020",Total Phosphorus (as P),20.8,ug/L,Lab,,42.5735,-76.2963,Mar,2020
+142,Base Flow,Fall Creek,McLean Bridge,"Mar 16, 2020",Total Phosphorus (as P),21.9,ug/L,Lab,,42.5526,-76.293,Mar,2020
+143,Base Flow,Fall Creek,Fall Creek Freeville,"Mar 16, 2020",Total Phosphorus (as P),18.4,ug/L,Lab,,42.505,-76.3595,Mar,2020
+144,Base Flow,Fall Creek,Freese Road Bridge,"Mar 16, 2020",Total Phosphorus (as P),18.4,ug/L,Lab,,42.4569,-76.4387,Mar,2020
+145,Base Flow,Fall Creek,Cayuga Street Bridge,"Mar 16, 2020",Total Phosphorus (as P),16.7,ug/L,Lab,,42.4547,-76.5004,Mar,2020
+146,Base Flow,Fall Creek,Champlin Road Culvert,"Mar 16, 2020",Total Phosphorus (as P),138.0,ug/L,Lab,,42.5755,-76.297,Mar,2020
+147,Base Flow,Fall Creek,Fall Creek Forest Home,"Mar 16, 2020",Total Phosphorus (as P),15.3,ug/L,Lab,,42.453,-76.4702,Mar,2020
+148,Base Flow,Fall Creek,Como Lake Outlet,"Mar 16, 2020",Total Phosphorus (as P),12.6,ug/L,Lab,,42.663000000000004,-76.2863,Mar,2020
+149,Base Flow,Fall Creek,McLean Rd.,"Mar 16, 2020",Total Phosphorus (as P),16.9,ug/L,Lab,,42.5438,-76.2971,Mar,2020
+150,Base Flow,Six Mile Creek,Plain Street,"Mar 18, 2020",Total Phosphorus (as P),18.6,ug/L,Lab,,42.434,-76.5041,Mar,2020
+151,Base Flow,Six Mile Creek,Wildflower Preserve,"Mar 18, 2020",Total Phosphorus (as P),14.8,ug/L,Lab,,42.4322,-76.4841,Mar,2020
+152,Base Flow,Six Mile Creek,German Cross Road,"Mar 18, 2020",Total Phosphorus (as P),13.6,ug/L,Lab,,42.4028,-76.4359,Mar,2020
+153,Base Flow,Six Mile Creek,Beaver Creek,"Mar 18, 2020",Total Phosphorus (as P),19.4,ug/L,Lab,,42.3885,-76.4138,Mar,2020
+154,Base Flow,Six Mile Creek,Brooktondale,"Mar 18, 2020",Total Phosphorus (as P),12.9,ug/L,Lab,,42.3812,-76.3973,Mar,2020
+155,Base Flow,Six Mile Creek,Horse Farm,"Mar 18, 2020",Total Phosphorus (as P),29.1,ug/L,Lab,,42.3861,-76.3629,Mar,2020
+156,Base Flow,Six Mile Creek,Boiceville,"Mar 18, 2020",Total Phosphorus (as P),10.4,ug/L,Lab,,42.3934,-76.3629,Mar,2020
+157,Base Flow,Six Mile Creek,Barrile Site,"Mar 18, 2020",Total Phosphorus (as P),18.0,ug/L,Lab,,42.3935,-76.342,Mar,2020
+158,Base Flow,Six Mile Creek,Six Hundred Rd,"Mar 18, 2020",Total Phosphorus (as P),18.9,ug/L,Lab,,42.3964,-76.3343,Mar,2020
+159,Base Flow,Six Mile Creek,Midline Rd,"Mar 18, 2020",Total Phosphorus (as P),28.8,ug/L,Lab,,42.4332,-76.3452,Mar,2020
+160,Base Flow,Six Mile Creek,Yellow Barn Road,"Mar 18, 2020",Total Phosphorus (as P),10.0,ug/L,Lab,,42.4428,-76.3457,Mar,2020
+161,Base Flow,Six Mile Creek,Irish Settlement Rd,"Mar 18, 2020",Total Phosphorus (as P),23.0,ug/L,Lab,,42.4354,-76.3209,Mar,2020
+162,Base Flow,Six Mile Creek,Gasline,"Mar 18, 2020",Total Phosphorus (as P),18.1,ug/L,Lab,,42.4048,-76.4498,Mar,2020
+163,Base Flow,Six Mile Creek,Banks Road,"Mar 18, 2020",Total Phosphorus (as P),12.9,ug/L,Lab,,42.396,-76.4208,Mar,2020
+164,Base Flow,Cayuga Inlet,Blakeslee Hill,"Apr 02, 2020",Total Phosphorus (as P),17.5,ug/L,Lab,,42.3847,-76.5554,Apr,2020
+165,Base Flow,Cayuga Inlet,Brown Road,"Apr 02, 2020",Total Phosphorus (as P),22.8,ug/L,Lab,,42.3473,-76.5399,Apr,2020
+166,Base Flow,Cayuga Inlet,Depot Road (Newfield),"Apr 02, 2020",Total Phosphorus (as P),26.2,ug/L,Lab,,42.3631,-76.5785,Apr,2020
+167,Base Flow,Cayuga Inlet,Upstream of Dam,"Apr 02, 2020",Total Phosphorus (as P),24.5,ug/L,Lab,,42.3611,-76.5944,Apr,2020
+168,Base Flow,Cayuga Inlet,Station Road by Newfield Group,"Apr 02, 2020",Total Phosphorus (as P),35.1,ug/L,Lab,,42.3205,-76.5182,Apr,2020
+169,Base Flow,Cayuga Inlet,Buttermilk Crk (upstream),"Apr 02, 2020",Total Phosphorus (as P),13.4,ug/L,Lab,,42.4164,-76.5276,Apr,2020
+170,Base Flow,Cayuga Inlet,Buttermilk Crk - Jennings Pnd,"Apr 02, 2020",Total Phosphorus (as P),29.2,ug/L,Lab,,42.3469,-76.4869,Apr,2020
+171,Base Flow,Cayuga Inlet,Buttermilk Creek Mouth,"Apr 02, 2020",Total Phosphorus (as P),39.4,ug/L,Lab,,42.4166,-76.5216,Apr,2020
+172,Base Flow,Cayuga Inlet,Enfield Creek at Enfield Center,"Apr 02, 2020",Total Phosphorus (as P),11.3,ug/L,Lab,,42.4359,-76.6297,Apr,2020
+173,Base Flow,Cayuga Inlet,Enfield Creek at Upper Treman,"Apr 02, 2020",Total Phosphorus (as P),17.0,ug/L,Lab,,42.4147,-76.6203,Apr,2020
+174,Base Flow,Cayuga Inlet,Enfield Creek near Mouth,"Apr 02, 2020",Total Phosphorus (as P),17.6,ug/L,Lab,,42.3991,-76.5451,Apr,2020
+175,Base Flow,Cayuga Inlet,Coy Glen near Mouth,"Apr 02, 2020",Total Phosphorus (as P),17.0,ug/L,Lab,,42.4275,-76.5233,Apr,2020
+176,Base Flow,Cayuga Inlet,Flood Control Channel at Wegman\s,"Apr 02, 2020",Total Phosphorus (as P),45.9,ug/L,Lab,,42.4337,-76.5115,Apr,2020
+177,Base Flow,Cayuga Inlet,Route 89,"Apr 02, 2020",Total Phosphorus (as P),49.3,ug/L,Lab,,42.4435,-76.5136,Apr,2020
+178,Base Flow,Cayuga Inlet,Cascadilla Creek Mouth,"Apr 02, 2020",Total Phosphorus (as P),38.0,ug/L,Lab,,42.4513,-76.5047,Apr,2020
+179,Base Flow,Cayuga Inlet,Lickbrook at W. Jersey Hill ,"Apr 02, 2020",Total Phosphorus (as P),28.4,ug/L,Lab,,42.3743,-76.5206,Apr,2020
+180,Base Flow,Cayuga Inlet,Flood Control Channel Esty St,"Apr 02, 2020",Total Phosphorus (as P),28.9,ug/L,Lab,,42.4427,-76.5117,Apr,2020
+181,Base Flow,Cayuga Inlet,Station Road by Buttermilk Group,"Apr 02, 2020",Total Phosphorus (as P),31.0,ug/L,Lab,,42.3205,-76.5182,Apr,2020
+182,Base Flow,Cayuga Inlet,Cass Park,"Apr 02, 2020",Total Phosphorus (as P),35.2,ug/L,Lab,,42.4554,-76.5121,Apr,2020
+183,Base Flow,Cayuga Inlet,Cherry and Taber St,"Apr 02, 2020",Total Phosphorus (as P),14.4,ug/L,Lab,,42.4389,-76.5163,Apr,2020
+184,Base Flow,Cayuga Inlet,Farmers\ Market,"Apr 02, 2020",Total Phosphorus (as P),29.2,ug/L,Lab,,42.4502,-76.5117,Apr,2020
+185,Base Flow,Cayuga Inlet,Buttermilk Creek @West Miller Road,"Apr 02, 2020",Total Phosphorus (as P),20.1,ug/L,,,42.3676,-76.4903,Apr,2020
+186,Base Flow,Six Mile Creek,Plain Street,"May 06, 2020",Total Phosphorus (as P),34.3,ug/L,Lab,,42.434,-76.5041,May,2020
+187,Base Flow,Six Mile Creek,Wildflower Preserve,"May 06, 2020",Total Phosphorus (as P),38.2,ug/L,Lab,,42.4322,-76.4841,May,2020
+188,Base Flow,Six Mile Creek,German Cross Road,"May 06, 2020",Total Phosphorus (as P),24.0,ug/L,Lab,,42.4028,-76.4359,May,2020
+189,Base Flow,Six Mile Creek,Beaver Creek,"May 06, 2020",Total Phosphorus (as P),26.0,ug/L,Lab,,42.3885,-76.4138,May,2020
+190,Base Flow,Six Mile Creek,Brooktondale,"May 06, 2020",Total Phosphorus (as P),20.1,ug/L,Lab,,42.3812,-76.3973,May,2020
+191,Base Flow,Six Mile Creek,Horse Farm,"May 06, 2020",Total Phosphorus (as P),26.8,ug/L,Lab,,42.3861,-76.3629,May,2020
+192,Base Flow,Six Mile Creek,Boiceville,"May 06, 2020",Total Phosphorus (as P),19.6,ug/L,Lab,,42.3934,-76.3629,May,2020
+193,Base Flow,Six Mile Creek,Barrile Site,"May 06, 2020",Total Phosphorus (as P),12.6,ug/L,Lab,,42.3935,-76.342,May,2020
+194,Base Flow,Six Mile Creek,Six Hundred Rd,"May 06, 2020",Total Phosphorus (as P),21.3,ug/L,Lab,,42.3964,-76.3343,May,2020
+195,Base Flow,Six Mile Creek,Midline Rd,"May 06, 2020",Total Phosphorus (as P),23.1,ug/L,Lab,,42.4332,-76.3452,May,2020
+196,Base Flow,Six Mile Creek,Yellow Barn Road,"May 06, 2020",Total Phosphorus (as P),16.8,ug/L,Lab,,42.4428,-76.3457,May,2020
+197,Base Flow,Six Mile Creek,Irish Settlement Rd,"May 06, 2020",Total Phosphorus (as P),21.6,ug/L,Lab,,42.4354,-76.3209,May,2020
+198,Base Flow,Six Mile Creek,Gasline,"May 06, 2020",Total Phosphorus (as P),29.8,ug/L,Lab,,42.4048,-76.4498,May,2020
+199,Base Flow,Six Mile Creek,Banks Road,"May 06, 2020",Total Phosphorus (as P),25.6,ug/L,Lab,,42.396,-76.4208,May,2020
+200,Base Flow,Cayuga Inlet,Blakeslee Hill,"Jun 25, 2020",Total Phosphorus (as P),8.84,ug/L,Lab,,42.3847,-76.5554,Jun,2020
+201,Base Flow,Cayuga Inlet,Brown Road,"Jun 25, 2020",Total Phosphorus (as P),29.6,ug/L,Lab,,42.3473,-76.5399,Jun,2020
+202,Base Flow,Cayuga Inlet,Depot Road (Newfield),"Jun 25, 2020",Total Phosphorus (as P),22.4,ug/L,Lab,,42.3631,-76.5785,Jun,2020
+203,Base Flow,Cayuga Inlet,Upstream of Dam,"Jun 25, 2020",Total Phosphorus (as P),33.4,ug/L,Lab,,42.3611,-76.5944,Jun,2020
+204,Base Flow,Cayuga Inlet,Station Road by Newfield Group,"Jun 25, 2020",Total Phosphorus (as P),19.6,ug/L,Lab,,42.3205,-76.5182,Jun,2020
+205,Base Flow,Cayuga Inlet,Buttermilk Crk (upstream),"Jun 25, 2020",Total Phosphorus (as P),13.8,ug/L,Lab,,42.4164,-76.5276,Jun,2020
+206,Base Flow,Cayuga Inlet,Buttermilk Crk - Jennings Pnd,"Jun 25, 2020",Total Phosphorus (as P),116.0,ug/L,Lab,,42.3469,-76.4869,Jun,2020
+207,Base Flow,Cayuga Inlet,Buttermilk Creek Mouth,"Jun 25, 2020",Total Phosphorus (as P),9.47,ug/L,Lab,,42.4166,-76.5216,Jun,2020
+208,Base Flow,Cayuga Inlet,Enfield Creek at Enfield Center,"Jun 25, 2020",Total Phosphorus (as P),7.91,ug/L,Lab,,42.4359,-76.6297,Jun,2020
+209,Base Flow,Cayuga Inlet,Enfield Creek at Upper Treman,"Jun 25, 2020",Total Phosphorus (as P),17.9,ug/L,Lab,,42.4147,-76.6203,Jun,2020
+210,Base Flow,Cayuga Inlet,Enfield Creek near Mouth,"Jun 25, 2020",Total Phosphorus (as P),11.7,ug/L,Lab,,42.3991,-76.5451,Jun,2020
+211,Base Flow,Cayuga Inlet,Flood Control Channel at Wegman\s,"Jun 25, 2020",Total Phosphorus (as P),153.0,ug/L,Lab,,42.4337,-76.5115,Jun,2020
+212,Base Flow,Cayuga Inlet,Route 89,"Jun 25, 2020",Total Phosphorus (as P),67.1,ug/L,Lab,,42.4435,-76.5136,Jun,2020
+213,Base Flow,Cayuga Inlet,Cascadilla Creek Mouth,"Jun 25, 2020",Total Phosphorus (as P),67.8,ug/L,Lab,,42.4513,-76.5047,Jun,2020
+214,Base Flow,Cayuga Inlet,Lickbrook at W. Jersey Hill ,"Jun 25, 2020",Total Phosphorus (as P),26.5,ug/L,Lab,,42.3743,-76.5206,Jun,2020
+215,Base Flow,Cayuga Inlet,Flood Control Channel Esty St,"Jun 25, 2020",Total Phosphorus (as P),75.3,ug/L,Lab,,42.4427,-76.5117,Jun,2020
+216,Base Flow,Cayuga Inlet,Station Road by Buttermilk Group,"Jun 25, 2020",Total Phosphorus (as P),17.8,ug/L,Lab,,42.3205,-76.5182,Jun,2020
+217,Base Flow,Cayuga Inlet,Cass Park,"Jun 25, 2020",Total Phosphorus (as P),38.5,ug/L,Lab,,42.4554,-76.5121,Jun,2020
+218,Base Flow,Cayuga Inlet,Cherry and Taber St,"Jun 25, 2020",Total Phosphorus (as P),26.8,ug/L,Lab,,42.4389,-76.5163,Jun,2020
+219,Base Flow,Cayuga Inlet,Farmers\ Market,"Jun 25, 2020",Total Phosphorus (as P),28.1,ug/L,Lab,,42.4502,-76.5117,Jun,2020
+220,Base Flow,Cayuga Inlet,Buttermilk Creek @West Miller Road,"Jun 25, 2020",Total Phosphorus (as P),16.8,ug/L,Lab,,42.3676,-76.4903,Jun,2020
+221,Base Flow,Six Mile Creek,Plain Street,"Jul 08, 2020",Total Phosphorus (as P),20.9,ug/L,Lab,,42.434,-76.5041,Jul,2020
+222,Base Flow,Six Mile Creek,Wildflower Preserve,"Jul 08, 2020",Total Phosphorus (as P),21.4,ug/L,Lab,,42.4322,-76.4841,Jul,2020
+223,Base Flow,Six Mile Creek,German Cross Road,"Jul 08, 2020",Total Phosphorus (as P),10.0,ug/L,Lab,,42.4028,-76.4359,Jul,2020
+224,Base Flow,Six Mile Creek,Beaver Creek,"Jul 08, 2020",Total Phosphorus (as P),39.0,ug/L,Lab,,42.3885,-76.4138,Jul,2020
+225,Base Flow,Stewart Park,Sanctuary Stream,"Sep 13, 2020",Total Phosphorus (as P),480.0,ug/L,Lab,,42.4599,-76.5035,Sep,2020
+226,Base Flow,Stewart Park,Fall Creek Mouth,"Sep 13, 2020",Total Phosphorus (as P),30.4,ug/L,Lab,,42.4575,-76.5046,Sep,2020
+227,Base Flow,Stewart Park,Renwick Brook South,"Sep 13, 2020",Total Phosphorus (as P),156.0,ug/L,Lab,,42.4712,-76.5036,Sep,2020
+228,Base Flow,Stewart Park,Pleasant Brook/Stewart,"Sep 13, 2020",Total Phosphorus (as P),1295.0,ug/L,Lab,,42.4611,-76.5011,Sep,2020
+229,Base Flow,Stewart Park,Fall Creek Mouth from Stewart Park Bridge,"Sep 13, 2020",Total Phosphorus (as P),40.0,ug/L,Lab,,42.4584,-76.5053,Sep,2020
+230,Base Flow,Stewart Park,Sanctuary Stream,"Oct 06, 2020",Total Phosphorus (as P),269.0,ug/L,Lab,,42.4599,-76.5035,Oct,2020
+231,Base Flow,Stewart Park,Fall Creek Mouth,"Oct 06, 2020",Total Phosphorus (as P),19.0,ug/L,Lab,,42.4575,-76.5046,Oct,2020
+232,Base Flow,Stewart Park,Golf Course,"Oct 06, 2020",Total Phosphorus (as P),46.4,ug/L,Lab,,42.4634,-76.4649,Oct,2020
+233,Base Flow,Stewart Park,South of Devon,"Oct 06, 2020",Total Phosphorus (as P),187.0,ug/L,Lab,,42.4628,-76.4948,Oct,2020
+234,Base Flow,Stewart Park,Pleasant Brook/Stewart,"Oct 06, 2020",Total Phosphorus (as P),865.0,ug/L,Lab,,42.4611,-76.5011,Oct,2020
+235,Base Flow,Stewart Park,Unnamed/Cayuga Heights,"Oct 06, 2020",Total Phosphorus (as P),89.0,ug/L,Lab,,42.4748,-76.5054,Oct,2020
+236,Base Flow,Stewart Park,Fall Creek Mouth from Stewart Park Bridge,"Oct 06, 2020",Total Phosphorus (as P),30.0,ug/L,Lab,,42.4584,-76.5053,Oct,2020
+237,Base Flow,Fall Creek,Lafayette Road,"Sep 14, 2020",Total Phosphorus (as P),28.5,ug/L,Lab,,42.5935,-76.2876,Sep,2020
+238,Base Flow,Fall Creek,Davis Road Bridge,"Sep 14, 2020",Total Phosphorus (as P),17.5,ug/L,Lab,,42.5735,-76.2963,Sep,2020
+239,Base Flow,Fall Creek,McLean Bridge,"Sep 14, 2020",Total Phosphorus (as P),20.2,ug/L,Lab,,42.5526,-76.293,Sep,2020
+240,Base Flow,Fall Creek,Fall Creek Freeville,"Sep 14, 2020",Total Phosphorus (as P),32.1,ug/L,Lab,,42.505,-76.3595,Sep,2020
+241,Base Flow,Fall Creek,Freese Road Bridge,"Sep 14, 2020",Total Phosphorus (as P),26.7,ug/L,Lab,,42.4569,-76.4387,Sep,2020
+242,Base Flow,Fall Creek,Cayuga Street Bridge,"Sep 14, 2020",Total Phosphorus (as P),19.7,ug/L,Lab,,42.4547,-76.5004,Sep,2020
+243,Base Flow,Fall Creek,Fall Creek Forest Home,"Sep 14, 2020",Total Phosphorus (as P),22.7,ug/L,Lab,,42.453,-76.4702,Sep,2020
+244,Base Flow,Fall Creek,McLean Rd.,"Sep 14, 2020",Total Phosphorus (as P),22.4,ug/L,Lab,,42.5438,-76.2971,Sep,2020
+245,Base Flow,Six Mile Creek,Plain Street,"Nov 16, 2020",Total Phosphorus (as P),20.7,ug/L,Lab,,42.434,-76.5041,Nov,2020
+246,Base Flow,Six Mile Creek,Wildflower Preserve,"Nov 16, 2020",Total Phosphorus (as P),21.0,ug/L,Lab,,42.4322,-76.4841,Nov,2020
+247,Base Flow,Six Mile Creek,German Cross Road,"Nov 16, 2020",Total Phosphorus (as P),14.7,ug/L,Lab,,42.4028,-76.4359,Nov,2020
+248,Base Flow,Six Mile Creek,Beaver Creek,"Nov 16, 2020",Total Phosphorus (as P),21.0,ug/L,Lab,,42.3885,-76.4138,Nov,2020
+249,Base Flow,Six Mile Creek,Brooktondale,"Nov 16, 2020",Total Phosphorus (as P),12.5,ug/L,Lab,,42.3812,-76.3973,Nov,2020
+250,Base Flow,Six Mile Creek,Horse Farm,"Nov 16, 2020",Total Phosphorus (as P),23.2,ug/L,Lab,,42.3861,-76.3629,Nov,2020
+251,Base Flow,Six Mile Creek,Boiceville,"Nov 16, 2020",Total Phosphorus (as P),11.8,ug/L,Lab,,42.3934,-76.3629,Nov,2020
+252,Base Flow,Six Mile Creek,Barrile Site,"Nov 16, 2020",Total Phosphorus (as P),26.3,ug/L,Lab,,42.3935,-76.342,Nov,2020
+253,Base Flow,Six Mile Creek,Six Hundred Rd,"Nov 16, 2020",Total Phosphorus (as P),22.2,ug/L,Lab,,42.3964,-76.3343,Nov,2020
+254,Base Flow,Six Mile Creek,Midline Rd,"Nov 16, 2020",Total Phosphorus (as P),18.6,ug/L,Lab,,42.4332,-76.3452,Nov,2020
+255,Base Flow,Six Mile Creek,Yellow Barn Road,"Nov 16, 2020",Total Phosphorus (as P),34.9,ug/L,Lab,,42.4428,-76.3457,Nov,2020
+256,Base Flow,Six Mile Creek,Irish Settlement Rd,"Nov 16, 2020",Total Phosphorus (as P),45.8,ug/L,Lab,,42.4354,-76.3209,Nov,2020
+257,Base Flow,Six Mile Creek,Gasline,"Nov 16, 2020",Total Phosphorus (as P),17.8,ug/L,Lab,,42.4048,-76.4498,Nov,2020
+258,Base Flow,Six Mile Creek,Banks Road,"Nov 16, 2020",Total Phosphorus (as P),21.3,ug/L,Lab,,42.396,-76.4208,Nov,2020
+259,Base Flow,Six Mile Creek,Brooktondale GW,"Nov 16, 2020",Total Phosphorus (as P),27.8,ug/L,Lab,,42.3939,-76.4179,Nov,2020
+260,Base Flow,Fall Creek,Lafayette Road,"Dec 07, 2020",Total Phosphorus (as P),16.8,ug/L,Lab,,42.5935,-76.2876,Dec,2020
+261,Base Flow,Fall Creek,Davis Road Bridge,"Dec 07, 2020",Total Phosphorus (as P),42.6,ug/L,Lab,,42.5735,-76.2963,Dec,2020
+262,Base Flow,Fall Creek,McLean Bridge,"Dec 07, 2020",Total Phosphorus (as P),51.8,ug/L,Lab,,42.5526,-76.293,Dec,2020
+263,Base Flow,Fall Creek,Fall Creek Freeville,"Dec 07, 2020",Total Phosphorus (as P),42.9,ug/L,Lab,,42.505,-76.3595,Dec,2020
+264,Base Flow,Fall Creek,Freese Road Bridge,"Dec 07, 2020",Total Phosphorus (as P),22.8,ug/L,Lab,,42.4569,-76.4387,Dec,2020
+265,Base Flow,Fall Creek,Cayuga Street Bridge,"Dec 07, 2020",Total Phosphorus (as P),33.4,ug/L,Lab,,42.4547,-76.5004,Dec,2020
+266,Base Flow,Fall Creek,Champlin Road Culvert,"Dec 07, 2020",Total Phosphorus (as P),414.0,ug/L,Lab,,42.5755,-76.297,Dec,2020
+267,Base Flow,Fall Creek,Tillotson Road Culvert,"Dec 07, 2020",Total Phosphorus (as P),1698.0,ug/L,Lab,,42.5758,-76.303,Dec,2020
+268,Base Flow,Fall Creek,Fall Creek Forest Home,"Dec 07, 2020",Total Phosphorus (as P),43.0,ug/L,Lab,,42.453,-76.4702,Dec,2020
+269,Base Flow,Fall Creek,McLean Rd.,"Dec 07, 2020",Total Phosphorus (as P),11.7,ug/L,Lab,,42.5438,-76.2971,Dec,2020
+270,Base Flow,Cayuga Inlet,Blakeslee Hill,"Oct 30, 2020",Total Phosphorus (as P),45.8,ug/L,Lab,,42.3847,-76.5554,Oct,2020
+271,Base Flow,Cayuga Inlet,Brown Road,"Oct 30, 2020",Total Phosphorus (as P),27.6,ug/L,Lab,,42.3473,-76.5399,Oct,2020
+272,Base Flow,Cayuga Inlet,Upstream of Dam,"Oct 30, 2020",Total Phosphorus (as P),54.9,ug/L,Lab,,42.3611,-76.5944,Oct,2020
+273,Base Flow,Cayuga Inlet,Depot Road (Newfield),"Oct 30, 2020",Total Phosphorus (as P),34.2,ug/L,Lab,,42.3631,-76.5785,Oct,2020
+274,Base Flow,Cayuga Inlet,Station Road by Newfield Group,"Oct 30, 2020",Total Phosphorus (as P),54.6,ug/L,Lab,,42.3205,-76.5182,Oct,2020
+275,Base Flow,Cayuga Inlet,Buttermilk Crk (upstream),"Oct 30, 2020",Total Phosphorus (as P),26.5,ug/L,Lab,,42.4164,-76.5276,Oct,2020
+276,Base Flow,Cayuga Inlet,Buttermilk Creek Mouth,"Oct 30, 2020",Total Phosphorus (as P),44.8,ug/L,Lab,,42.4166,-76.5216,Oct,2020
+277,Base Flow,Cayuga Inlet,Buttermilk Crk - Jennings Pnd,"Oct 30, 2020",Total Phosphorus (as P),26.3,ug/L,Lab,,42.3469,-76.4869,Oct,2020
+278,Base Flow,Cayuga Inlet,Enfield Creek at Enfield Center,"Oct 30, 2020",Total Phosphorus (as P),17.9,ug/L,Lab,,42.4359,-76.6297,Oct,2020
+279,Base Flow,Cayuga Inlet,Enfield Creek near Mouth,"Oct 30, 2020",Total Phosphorus (as P),19.5,ug/L,Lab,,42.3991,-76.5451,Oct,2020
+280,Base Flow,Cayuga Inlet,Enfield Creek at Upper Treman,"Oct 30, 2020",Total Phosphorus (as P),20.3,ug/L,Lab,,42.4147,-76.6203,Oct,2020
+281,Base Flow,Cayuga Inlet,Flood Control Channel at Wegman\s,"Oct 30, 2020",Total Phosphorus (as P),73.4,ug/L,Lab,,42.4337,-76.5115,Oct,2020
+282,Base Flow,Cayuga Inlet,Coy Glen near Mouth,"Oct 30, 2020",Total Phosphorus (as P),28.1,ug/L,Lab,,42.4275,-76.5233,Oct,2020
+283,Base Flow,Cayuga Inlet,Lickbrook at W. Jersey Hill ,"Oct 30, 2020",Total Phosphorus (as P),54.6,ug/L,Lab,,42.3743,-76.5206,Oct,2020
+284,Base Flow,Cayuga Inlet,Cascadilla Creek Mouth,"Oct 30, 2020",Total Phosphorus (as P),85.1,ug/L,Lab,,42.4513,-76.5047,Oct,2020
+285,Base Flow,Cayuga Inlet,Flood Control Channel Esty St,"Oct 30, 2020",Total Phosphorus (as P),58.4,ug/L,Lab,,42.4427,-76.5117,Oct,2020
+286,Base Flow,Cayuga Inlet,Cass Park,"Oct 30, 2020",Total Phosphorus (as P),50.9,ug/L,Lab,,42.4554,-76.5121,Oct,2020
+287,Base Flow,Cayuga Inlet,Station Road by Buttermilk Group,"Oct 30, 2020",Total Phosphorus (as P),55.5,ug/L,Lab,,42.3205,-76.5182,Oct,2020
+288,Base Flow,Cayuga Inlet,Farmers\ Market,"Oct 30, 2020",Total Phosphorus (as P),47.2,ug/L,Lab,,42.4502,-76.5117,Oct,2020
+289,Base Flow,Cayuga Inlet,Cherry and Taber St,"Oct 30, 2020",Total Phosphorus (as P),37.8,ug/L,Lab,,42.4389,-76.5163,Oct,2020
+290,Base Flow,Cayuga Inlet,Buttermilk Creek @West Miller Road,"Oct 30, 2020",Total Phosphorus (as P),75.3,ug/L,Lab,,42.3676,-76.4903,Oct,2020
+291,Base Flow,Cayuga Inlet,Route 89,"Oct 30, 2020",Total Phosphorus (as P),45.8,ug/L,Lab,,42.4435,-76.5136,Oct,2020
+292,Base Flow,Fall Creek,Lafayette Road,"Mar 22, 2021",Total Phosphorus (as P),18.1,ug/L,Lab,,42.5935,-76.2876,Mar,2021
+293,Base Flow,Fall Creek,Davis Road Bridge,"Mar 22, 2021",Total Phosphorus (as P),17.9,ug/L,Lab,Total Phosphorus < SRP,42.5735,-76.2963,Mar,2021
+294,Base Flow,Fall Creek,McLean Bridge,"Mar 22, 2021",Total Phosphorus (as P),40.7,ug/L,Lab,,42.5526,-76.293,Mar,2021
+295,Base Flow,Fall Creek,Fall Creek Freeville,"Mar 22, 2021",Total Phosphorus (as P),22.1,ug/L,Lab,,42.505,-76.3595,Mar,2021
+296,Base Flow,Fall Creek,Cayuga Street Bridge,"Mar 22, 2021",Total Phosphorus (as P),16.8,ug/L,Lab,Total Phosphorus < SRP,42.4547,-76.5004,Mar,2021
+297,Base Flow,Fall Creek,Champlin Road Culvert,"Mar 22, 2021",Total Phosphorus (as P),251.0,ug/L,Lab,Total Phosphorus < SRP,42.5755,-76.297,Mar,2021
+298,Base Flow,Fall Creek,Como Lake Outlet,"Mar 22, 2021",Total Phosphorus (as P),17.4,ug/L,Lab,Total Phosphorus < SRP,42.663000000000004,-76.2863,Mar,2021
+299,Base Flow,Fall Creek,McLean Rd.,"Mar 22, 2021",Total Phosphorus (as P),20.6,ug/L,Lab,Total Phosphorus < SRP,42.5438,-76.2971,Mar,2021
+300,Base Flow,Six Mile Creek,Plain Street,"Mar 31, 2021",Total Phosphorus (as P),30.7,ug/L,Lab,,42.434,-76.5041,Mar,2021
+301,Base Flow,Six Mile Creek,Wildflower Preserve,"Mar 31, 2021",Total Phosphorus (as P),28.7,ug/L,Lab,,42.4322,-76.4841,Mar,2021
+302,Base Flow,Six Mile Creek,Brooktondale,"Mar 31, 2021",Total Phosphorus (as P),73.2,ug/L,Lab,,42.3812,-76.3973,Mar,2021
+303,Base Flow,Six Mile Creek,Beaver Creek,"Mar 31, 2021",Total Phosphorus (as P),25.9,ug/L,Lab,,42.3885,-76.4138,Mar,2021
+304,Base Flow,Six Mile Creek,Horse Farm,"Mar 31, 2021",Total Phosphorus (as P),14.2,ug/L,Lab,,42.3861,-76.3629,Mar,2021
+305,Base Flow,Six Mile Creek,Barrile Site,"Mar 31, 2021",Total Phosphorus (as P),11.0,ug/L,Lab,,42.3935,-76.342,Mar,2021
+306,Base Flow,Six Mile Creek,Boiceville,"Mar 31, 2021",Total Phosphorus (as P),32.3,ug/L,Lab,,42.3934,-76.3629,Mar,2021
+307,Base Flow,Six Mile Creek,Six Hundred Rd,"Mar 31, 2021",Total Phosphorus (as P),19.9,ug/L,Lab,,42.3964,-76.3343,Mar,2021
+308,Base Flow,Six Mile Creek,Yellow Barn Road,"Mar 31, 2021",Total Phosphorus (as P),11.9,ug/L,Lab,,42.4428,-76.3457,Mar,2021
+309,Base Flow,Six Mile Creek,Midline Rd,"Mar 31, 2021",Total Phosphorus (as P),14.5,ug/L,Lab,,42.4332,-76.3452,Mar,2021
+310,Base Flow,Six Mile Creek,Irish Settlement Rd,"Mar 31, 2021",Total Phosphorus (as P),13.5,ug/L,Lab,,42.4354,-76.3209,Mar,2021
+311,Base Flow,Six Mile Creek,Gasline,"Mar 31, 2021",Total Phosphorus (as P),22.6,ug/L,Lab,,42.4048,-76.4498,Mar,2021
+312,Base Flow,Six Mile Creek,Banks Road,"Mar 31, 2021",Total Phosphorus (as P),39.6,ug/L,Lab,,42.396,-76.4208,Mar,2021
+313,Base Flow,Six Mile Creek,Spur Creek,"Mar 31, 2021",Total Phosphorus (as P),18.2,ug/L,Lab,,42.444444,-76.332222,Mar,2021
+314,Base Flow,Fall Creek,Freese Road Bridge,"Mar 22, 2021",Total Phosphorus (as P),19.9,ug/L,Lab,Total Phosphorus < SRP,42.4569,-76.4387,Mar,2021
+315,Base Flow,Fall Creek,Fall Creek Forest Home,"Mar 22, 2021",Total Phosphorus (as P),23.4,ug/L,Lab,,42.453,-76.4702,Mar,2021
+316,Base Flow,Six Mile Creek,German Cross Road,"Mar 31, 2021",Total Phosphorus (as P),18.7,ug/L,Lab,,42.4028,-76.4359,Mar,2021
+317,Base Flow,Cayuga Inlet,Brown Road,"Apr 15, 2021",Total Phosphorus (as P),19.5,ug/L,Lab,,42.3473,-76.5399,Apr,2021
+318,Base Flow,Cayuga Inlet,Blakeslee Hill,"Apr 15, 2021",Total Phosphorus (as P),10.9,ug/L,Lab,,42.3847,-76.5554,Apr,2021
+319,Base Flow,Cayuga Inlet,Depot Road (Newfield),"Apr 15, 2021",Total Phosphorus (as P),73.8,ug/L,Lab,,42.3631,-76.5785,Apr,2021
+320,Base Flow,Cayuga Inlet,Flood Control Channel at Wegman\s,"Apr 15, 2021",Total Phosphorus (as P),64.8,ug/L,Lab,,42.4337,-76.5115,Apr,2021
+321,Base Flow,Cayuga Inlet,Upstream of Dam,"Apr 15, 2021",Total Phosphorus (as P),15.4,ug/L,Lab,,42.3611,-76.5944,Apr,2021
+322,Base Flow,Cayuga Inlet,Station Road by Newfield Group,"Apr 15, 2021",Total Phosphorus (as P),18.4,ug/L,Lab,,42.3205,-76.5182,Apr,2021
+323,Base Flow,Cayuga Inlet,Buttermilk Crk (upstream),"Apr 15, 2021",Total Phosphorus (as P),34.8,ug/L,Lab,,42.4164,-76.5276,Apr,2021
+324,Base Flow,Cayuga Inlet,Buttermilk Creek Mouth,"Apr 15, 2021",Total Phosphorus (as P),27.3,ug/L,Lab,,42.4166,-76.5216,Apr,2021
+325,Base Flow,Cayuga Inlet,Buttermilk Crk - Jennings Pnd,"Apr 15, 2021",Total Phosphorus (as P),9.47,ug/L,Lab,,42.3469,-76.4869,Apr,2021
+326,Base Flow,Cayuga Inlet,Enfield Creek at Enfield Center,"Apr 15, 2021",Total Phosphorus (as P),11.5,ug/L,Lab,,42.4359,-76.6297,Apr,2021
+327,Base Flow,Cayuga Inlet,Enfield Creek at Upper Treman,"Apr 15, 2021",Total Phosphorus (as P),9.16,ug/L,Lab,,42.4147,-76.6203,Apr,2021
+328,Base Flow,Cayuga Inlet,Coy Glen near Mouth,"Apr 15, 2021",Total Phosphorus (as P),10.7,ug/L,Lab,,42.4275,-76.5233,Apr,2021
+329,Base Flow,Cayuga Inlet,Enfield Creek near Mouth,"Apr 15, 2021",Total Phosphorus (as P),22.9,ug/L,Lab,,42.3991,-76.5451,Apr,2021
+330,Base Flow,Cayuga Inlet,Route 89,"Apr 15, 2021",Total Phosphorus (as P),24.5,ug/L,Lab,,42.4435,-76.5136,Apr,2021
+331,Base Flow,Cayuga Inlet,Lickbrook at W. Jersey Hill ,"Apr 15, 2021",Total Phosphorus (as P),23.2,ug/L,Lab,,42.3743,-76.5206,Apr,2021
+332,Base Flow,Cayuga Inlet,Cascadilla Creek Mouth,"Apr 15, 2021",Total Phosphorus (as P),13.9,ug/L,Lab,,42.4513,-76.5047,Apr,2021
+333,Base Flow,Cayuga Inlet,Cass Park,"Apr 15, 2021",Total Phosphorus (as P),28.7,ug/L,Lab,,42.4554,-76.5121,Apr,2021
+334,Base Flow,Cayuga Inlet,Station Road by Buttermilk Group,"Apr 15, 2021",Total Phosphorus (as P),17.4,ug/L,Lab,,42.3205,-76.5182,Apr,2021
+335,Base Flow,Cayuga Inlet,Cherry and Taber St,"Apr 15, 2021",Total Phosphorus (as P),24.5,ug/L,Lab,,42.4389,-76.5163,Apr,2021
+336,Base Flow,Cayuga Inlet,Farmers\ Market,"Apr 15, 2021",Total Phosphorus (as P),33.1,ug/L,Lab,,42.4502,-76.5117,Apr,2021
+337,Base Flow,Cayuga Inlet,Flood Control Channel Esty St,"Apr 15, 2021",Total Phosphorus (as P),23.1,ug/L,Lab,,42.4427,-76.5117,Apr,2021
+338,Base Flow,Cayuga Nature Center Creek,Cayuga Nature Center Creek at Comstock,"May 18, 2021",Total Phosphorus (as P),13.1,ug/L,Lab,,42.5213,-76.5536,May,2021
+339,Base Flow,Cayuga Nature Center Creek,Cayuga Nature Center Creek at Center - Upstream,"May 18, 2021",Total Phosphorus (as P),95.9,ug/L,Lab,,42.5179,-76.5569,May,2021
+340,Base Flow,Six Mile Creek,Wildflower Preserve,"May 26, 2021",Total Phosphorus (as P),17.4,ug/L,Lab,,42.4322,-76.4841,May,2021
+341,Base Flow,Six Mile Creek,Plain Street,"May 26, 2021",Total Phosphorus (as P),18.2,ug/L,Lab,,42.434,-76.5041,May,2021
+342,Base Flow,Six Mile Creek,Beaver Creek,"May 26, 2021",Total Phosphorus (as P),18.2,ug/L,Lab,,42.3885,-76.4138,May,2021
+343,Base Flow,Six Mile Creek,German Cross Road,"May 26, 2021",Total Phosphorus (as P),30.3,ug/L,Lab,,42.4028,-76.4359,May,2021
+344,Base Flow,Six Mile Creek,Brooktondale,"May 26, 2021",Total Phosphorus (as P),14.5,ug/L,Lab,,42.3812,-76.3973,May,2021
+345,Base Flow,Six Mile Creek,Boiceville,"May 26, 2021",Total Phosphorus (as P),11.9,ug/L,Lab,,42.3934,-76.3629,May,2021
+346,Base Flow,Six Mile Creek,Horse Farm,"May 26, 2021",Total Phosphorus (as P),7.13,ug/L,Lab,,42.3861,-76.3629,May,2021
+347,Base Flow,Six Mile Creek,Barrile Site,"May 26, 2021",Total Phosphorus (as P),5.33,ug/L,Lab,,42.3935,-76.342,May,2021
+348,Base Flow,Six Mile Creek,Midline Rd,"May 26, 2021",Total Phosphorus (as P),25.9,ug/L,Lab,,42.4332,-76.3452,May,2021
+349,Base Flow,Six Mile Creek,Six Hundred Rd,"May 26, 2021",Total Phosphorus (as P),8.22,ug/L,Lab,,42.3964,-76.3343,May,2021
+350,Base Flow,Six Mile Creek,Yellow Barn Road,"May 26, 2021",Total Phosphorus (as P),32.8,ug/L,Lab,,42.4428,-76.3457,May,2021
+351,Base Flow,Six Mile Creek,Irish Settlement Rd,"May 26, 2021",Total Phosphorus (as P),24.0,ug/L,Lab,,42.4354,-76.3209,May,2021
+352,Base Flow,Six Mile Creek,Gasline,"May 26, 2021",Total Phosphorus (as P),7.13,ug/L,Lab,,42.4048,-76.4498,May,2021
+353,Base Flow,Six Mile Creek,Banks Road,"May 26, 2021",Total Phosphorus (as P),9.31,ug/L,Lab,,42.396,-76.4208,May,2021
+354,Base Flow,Six Mile Creek,Spur Creek,"May 26, 2021",Total Phosphorus (as P),20.1,ug/L,Lab,,42.444444,-76.332222,May,2021
+355,Base Flow,Fall Creek,Lafayette Road,"Jun 07, 2021",Total Phosphorus (as P),21.8,ug/L,Lab,,42.5935,-76.2876,Jun,2021
+356,Base Flow,Fall Creek,Davis Road Bridge,"Jun 07, 2021",Total Phosphorus (as P),40.1,ug/L,Lab,,42.5735,-76.2963,Jun,2021
+357,Base Flow,Fall Creek,McLean Bridge,"Jun 07, 2021",Total Phosphorus (as P),25.7,ug/L,Lab,,42.5526,-76.293,Jun,2021
+358,Base Flow,Fall Creek,Fall Creek Freeville,"Jun 07, 2021",Total Phosphorus (as P),33.7,ug/L,Lab,,42.505,-76.3595,Jun,2021
+359,Base Flow,Fall Creek,Cayuga Street Bridge,"Jun 07, 2021",Total Phosphorus (as P),35.7,ug/L,Lab,,42.4547,-76.5004,Jun,2021
+360,Base Flow,Fall Creek,Freese Road Bridge,"Jun 07, 2021",Total Phosphorus (as P),34.9,ug/L,Lab,,42.4569,-76.4387,Jun,2021
+361,Base Flow,Fall Creek,Fall Creek Forest Home,"Jun 07, 2021",Total Phosphorus (as P),21.6,ug/L,Lab,,42.453,-76.4702,Jun,2021
+362,Base Flow,Fall Creek,McLean Rd.,"Jun 07, 2021",Total Phosphorus (as P),28.5,ug/L,Lab,,42.5438,-76.2971,Jun,2021
+363,Base Flow,Fall Creek,Como Lake Outlet,"Jun 07, 2021",Total Phosphorus (as P),46.7,ug/L,Lab,,42.663000000000004,-76.2863,Jun,2021
+364,Base Flow,Stewart Park,Cayuga Lake Shore,"Jul 11, 2021",Total Phosphorus (as P),54.2,ug/L,Lab,,42.4625,-76.5036,Jul,2021
+365,Base Flow,Stewart Park,Fall Creek Mouth,"Jul 11, 2021",Total Phosphorus (as P),46.9,ug/L,Lab,,42.4575,-76.5046,Jul,2021
+366,Base Flow,Stewart Park,Visitor\s Center,"Aug 21, 2018",Total Phosphorus (as P),301.0,ug/L,Lab,,42.4648,-76.5003,Aug,2018
+367,Base Flow,Stewart Park,Cayuga Lake Shore,"Aug 21, 2018",Total Phosphorus (as P),117.0,ug/L,Lab,,42.4625,-76.5036,Aug,2018
+368,Base Flow,Stewart Park,Sanctuary Stream,"Aug 21, 2018",Total Phosphorus (as P),164.0,ug/L,Lab,,42.4599,-76.5035,Aug,2018
+369,Base Flow,Stewart Park,Fall Creek Mouth,"Aug 21, 2018",Total Phosphorus (as P),39.9,ug/L,Lab,,42.4575,-76.5046,Aug,2018
+370,Base Flow,Six Mile Creek,Plain Street,"Mar 11, 2019",Total Phosphorus (as P),14.2,ug/L,Lab,,42.434,-76.5041,Mar,2019
+371,Base Flow,Six Mile Creek,Wildflower Preserve,"Mar 11, 2019",Total Phosphorus (as P),24.2,ug/L,Lab,,42.4322,-76.4841,Mar,2019
+372,Base Flow,Six Mile Creek,German Cross Road,"Mar 11, 2019",Total Phosphorus (as P),15.8,ug/L,Lab,,42.4028,-76.4359,Mar,2019
+373,Base Flow,Six Mile Creek,Beaver Creek,"Mar 11, 2019",Total Phosphorus (as P),15.5,ug/L,Lab,,42.3885,-76.4138,Mar,2019
+374,Base Flow,Six Mile Creek,Brooktondale,"Mar 11, 2019",Total Phosphorus (as P),11.0,ug/L,Lab,,42.3812,-76.3973,Mar,2019
+375,Base Flow,Six Mile Creek,Horse Farm,"Mar 11, 2019",Total Phosphorus (as P),15.7,ug/L,Lab,,42.3861,-76.3629,Mar,2019
+376,Base Flow,Six Mile Creek,Boiceville,"Mar 11, 2019",Total Phosphorus (as P),10.9,ug/L,Lab,,42.3934,-76.3629,Mar,2019
+377,Base Flow,Six Mile Creek,Barrile Site,"Mar 11, 2019",Total Phosphorus (as P),6.84,ug/L,Lab,,42.3935,-76.342,Mar,2019
+378,Base Flow,Six Mile Creek,Six Hundred Rd,"Mar 11, 2019",Total Phosphorus (as P),7.43,ug/L,Lab,,42.3964,-76.3343,Mar,2019
+379,Base Flow,Six Mile Creek,Midline Rd,"Mar 11, 2019",Total Phosphorus (as P),18.6,ug/L,Lab,,42.4332,-76.3452,Mar,2019
+380,Base Flow,Six Mile Creek,Irish Settlement Rd,"Mar 11, 2019",Total Phosphorus (as P),20.8,ug/L,Lab,,42.4354,-76.3209,Mar,2019
+381,Base Flow,Six Mile Creek,Gasline,"Mar 11, 2019",Total Phosphorus (as P),30.4,ug/L,Lab,,42.4048,-76.4498,Mar,2019
+382,Base Flow,Six Mile Creek,Banks Road,"Mar 11, 2019",Total Phosphorus (as P),15.2,ug/L,Lab,,42.396,-76.4208,Mar,2019
+383,Base Flow,Stewart Park,Visitor\s Center,"Sep 17, 2018",Total Phosphorus (as P),420.0,ug/L,Lab,,42.4648,-76.5003,Sep,2018
+384,Base Flow,Stewart Park,Cayuga Lake Shore,"Sep 17, 2018",Total Phosphorus (as P),100.5,ug/L,Lab,,42.4625,-76.5036,Sep,2018
+385,Base Flow,Stewart Park,Sanctuary Stream,"Sep 17, 2018",Total Phosphorus (as P),138.2,ug/L,Lab,,42.4599,-76.5035,Sep,2018
+386,Base Flow,Stewart Park,Fall Creek Mouth,"Sep 17, 2018",Total Phosphorus (as P),53.2,ug/L,Lab,,42.4575,-76.5046,Sep,2018
